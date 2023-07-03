@@ -4,7 +4,7 @@ import homeImage from './asset/student.png'; // Import the image
 
 const Home = () => (
   <div>
-    <h1>Student</h1>
+    <h1>Student Details</h1>
     <div className="glass-box">
       <p><b>Details About Student</b></p>
       <img src={homeImage} alt="Home" className="glass-image" />
