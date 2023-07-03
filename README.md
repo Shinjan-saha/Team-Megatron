@@ -9,5 +9,9 @@
 </ul>
 
 ## Run this Command on terminal after Clone
-###    `cd Hack`
+###    `npm install`
   ### **`npm start `** 
+
+## Login Credential
+<li> username:- megatron</li>
+<li> password:-1234</li>
