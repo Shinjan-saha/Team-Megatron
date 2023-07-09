@@ -1,0 +1,27 @@
+/* Contact.css */
+
+.contact-container {
+    text-align: center;
+  }
+  
+  .contact-box {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #2b7493;
+  }
+  
+  .school-name {
+    color: rgb(4, 4, 15);
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .contact-info p {
+    margin: 10px 0;
+  }
+  
